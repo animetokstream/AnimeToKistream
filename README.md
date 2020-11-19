@@ -14,7 +14,7 @@ then the webserver will load
 
 For Windows Download : https://github.com/animetokstream/AnimeToKistream/releases/download/1/windows
 
-For Linux : https://github.com/animetokstream/AnimeToKistream/releases/download/1/animetokistream
+For Linux : https://github.com/animetokstream/AnimeToKistream/releases/download/1/linux
 
 For Darwin : https://github.com/animetokstream/AnimeToKistream/releases/download/1/darwin
 
